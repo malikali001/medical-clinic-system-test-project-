@@ -1,4 +1,3 @@
-"""
 # Medical Clinic System
 
 ## Overview
